@@ -1,4 +1,4 @@
-# 🎥 YouTube Timestamps Generator
+## 🎥 YouTube Timestamps Generator
 
 ## 🎯 Description
 YouTube Timestamps Generator is an AI-powered application that automatically creates detailed chapter markers for YouTube videos. Using Google's Gemini 1.5 Flash AI through the Phi framework, this tool analyzes video content to generate accurate timestamps in `[start, end, summary]` format.
@@ -29,5 +29,5 @@ YouTube Timestamps Generator is an AI-powered application that automatically cre
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/youtube-timestamps-generator.git
-cd youtube-timestamps-generator
+git clone https://github.com/HMourad2023/Youtube-Timestamps-Agent.git
+cd Youtube-Timestamps-Agent
